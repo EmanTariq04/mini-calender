@@ -26,3 +26,21 @@ body {
     font-size: 30px;
     font-weight: bold;
 }
+
+.day-name {
+    font-size: 20px;
+    color: darkgray;
+}
+
+.day-number {
+    font-size: 80px;
+    margin: 0;
+    font-weight: bold;
+}
+
+.year {
+    margin: 20px 0;
+    font-size: 20px;
+    color: darkgray;
+    font-weight: 500;
+}
